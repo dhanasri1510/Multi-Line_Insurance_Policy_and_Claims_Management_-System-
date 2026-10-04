@@ -20,6 +20,7 @@ Manual and inconsistent policy quoting, premium calculation, and claims handling
 - Requirement Analysis Phase
 - Project Design Phase
 - Project Planning and Scheduling
+- Project Development Phase
 
 ## Tech Stack
 Salesforce, Apex, Flows, Lightning Web Components
